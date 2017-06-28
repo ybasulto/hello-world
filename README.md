@@ -1,4 +1,3 @@
 # hello-world
 hola mundo
-
-Hola terrícolas
+se acabo todo
